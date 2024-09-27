@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 cd..
 clone
 git config
+=======
+qdwaed
+>>>>>>> f290f095f4bcbfb4da254ec0d79fb2e451bcb1c6

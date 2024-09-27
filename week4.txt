@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Linux
 cd
+=======
+4week
+pwd
+pull
+conflicting
+>>>>>>> f290f095f4bcbfb4da254ec0d79fb2e451bcb1c6
